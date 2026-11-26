@@ -1,0 +1,5 @@
+Model,WMAE,MAE
+HistGradientBoosting (residual),1701.0640819400003,1697.3634977158272
+HistGradientBoosting (trained on rows with last-year value),1741.4101558276727,1736.31864572259
+Seasonal naive,1803.0338513222807,1801.4724688548984
+Last observed,3198.6591888480957,3125.864383846074
